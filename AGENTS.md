@@ -1,0 +1,1 @@
+$cat /mnt/z/M0DD1NG/autonomous-tools-create-mods-ue/AGENTS.md
