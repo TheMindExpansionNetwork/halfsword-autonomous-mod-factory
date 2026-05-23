@@ -1,0 +1,1 @@
+"""High-quality UE4SS Lua generator for Half-Sword."""

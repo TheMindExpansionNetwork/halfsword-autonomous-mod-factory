@@ -1,0 +1,1 @@
+"""hs-mod CLI — Half-Sword Mod Factory (core commands)"""
