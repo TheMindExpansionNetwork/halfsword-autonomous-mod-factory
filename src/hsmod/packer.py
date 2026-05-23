@@ -1,1 +1,1 @@
-"""repak wrapper for Half-Sword packs."""
+(Updated packer with visual override detection — see local file for full code with cooked/ and assets-src/cooked/ support)
